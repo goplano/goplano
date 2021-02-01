@@ -1,7 +1,7 @@
 # (⌐⊙_⊙) Hi there 👋
 
 
-- 🌱 I’m currently learning vue 3, laravel 8, web components
+- 🌱 I’m currently learning vue 3, laravel 8, web components, and go
 - 💬 Ask me about sourdough
 - 😄 Pronouns: she/her/y'all
 - ⚡ Fun facts: I tried stand-up a few times - the joke telling kind
