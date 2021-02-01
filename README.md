@@ -1,16 +1,26 @@
-### Hi there 👋
+# (⌐⊙_⊙) Hi there 👋
+
+- 🌱 I’m currently learning vue 3, laravel 8, web components
+- 💬 Ask me about sourdough
+- 😄 Pronouns: she/her/y'all
+- ⚡ Fun facts: I tried stand-up a few times - the joke telling kind
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/goplano/goplano/main/bird.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/goplano/goplano/main/in.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/goplano
+[2]: https://www.linkedin.com/in/suecarson/
 
 <!--
-**goplano/goplano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Sue's GitHub stats](https://github-readme-stats.vercel.app/api?username=goplano)](https://github.com/goplano/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goplano)](https://github.com/goplano/github-readme-stats)
 -->
