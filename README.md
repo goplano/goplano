@@ -1,10 +1,17 @@
 # (⌐⊙_⊙) Hi there 👋
 
+
 - 🌱 I’m currently learning vue 3, laravel 8, web components
 - 💬 Ask me about sourdough
 - 😄 Pronouns: she/her/y'all
 - ⚡ Fun facts: I tried stand-up a few times - the joke telling kind
 
+## Some things I've been playing with
+
+- [Sourdough hydration calculator](https://vuecalc.suesucia.com) - bakersvue - vue3js
+- [Sourdough hydration calculator](https://calc.suesucia.com) - bakers-alpine - alpinejs
+- [Sourdough hydration calculator](https://quirky-liskov-df48af.netlify.app) - bakers-1 - vanilla js
+- [Silly BCD clock](https://bcdclock.suesucia.com) - bcd_clock_wc - web components
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
