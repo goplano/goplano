@@ -12,6 +12,8 @@
 - [Sourdough hydration calculator](https://calc.suesucia.com) - bakers-alpine - alpinejs
 - [Sourdough hydration calculator](https://quirky-liskov-df48af.netlify.app) - bakers-1 - vanilla js
 - [Silly BCD clock](https://bcdclock.suesucia.com) - bcd_clock_wc - web components
+- [First Try BCD clock](https://laughing-heyrovsky-f5acd3.netlify.app) - bcd_clock - vue3js
+- [Pearson Square and Sourdough](https://pearson.suesucia.com/) - pearsondoc - asciidoc
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
